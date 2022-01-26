@@ -1,9 +1,7 @@
 # odin-recipes
 # What?
-A basic recipe website.
-# Why?
-Learning the foundations & basics of HTML
+A recipe website based on a galaxy far, far away
 # Goals
-To practice using HTML, git, & the basics of web development.
+To better understand HTML Foundations
 # Idea Origination 
 The Odin Project.
